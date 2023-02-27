@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088481409480",
+    "project_id": "samina-sajjad",
+    "storage_bucket": "samina-sajjad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088481409480:android:d6afb29bdec28a007ee8fd",
+        "android_client_info": {
+          "package_name": "com.example.dart_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088481409480-0362p1c530s68gjr95rnsj2rp6e41tm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVC4mTI83ZnSq5iddpEq9oc6GxK1Neg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088481409480-0362p1c530s68gjr95rnsj2rp6e41tm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
